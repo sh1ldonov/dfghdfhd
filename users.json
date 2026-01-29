@@ -1,1 +1,11 @@
-
+{
+  "users": [
+    {
+      "nickname": "kudi",
+      "hwid": "your_hwid_here",
+      "key": "HT-DFGBAY-X7BFAF",
+      "activation_date": "2026-01-29",
+      "expiry_date": "2026-02-05"
+    }
+  ]
+}
