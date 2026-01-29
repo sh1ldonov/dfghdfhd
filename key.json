@@ -1,1 +1,127 @@
-
+{
+  "HT-DFGBAY-X7BFAF": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-QW3RTY-9PLM8K": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-ZXCVBN-6YH5T4": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-ASDFGH-1J2K3L": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-POIUYT-8R7E5W": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-MNBVCX-0Q9A2S": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-LKJHGF-4D3F6G": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-7U8I9O-5H4J3K": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-2W3E4R-6T7Y8U": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-1Q2W3E-4R5T6Y": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-9O8U7Y-6T5R4E": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-3W2Q1A-4S5D6F": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-7G8H9J-0K1L2Z": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-XC5VB7-NM8K9L": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-DF8GH4-JK3L2Q": {
+    "tariff": "7 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-5T6Y7U-8I9O0P": {
+    "tariff": "14 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-A2S3D4-F5G6H7": {
+    "tariff": "14 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-J8K9L0-Z1X2C3": {
+    "tariff": "14 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-V4B5N6-M7J8K9": {
+    "tariff": "14 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-Q1W2E3-R4T5Y6": {
+    "tariff": "31 день",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-U7I8O9-P0L1K2": {
+    "tariff": "31 день",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-M3N4B5-V6C7X8": {
+    "tariff": "31 день",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-Z9A8S7-D6F5G4": {
+    "tariff": "31 день",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-H3J2K1-L4P5O6": {
+    "tariff": "365 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  },
+  "HT-Y7T6R5-E4W3Q2": {
+    "tariff": "365 дней",
+    "status": "available",
+    "created_at": "2026-01-29"
+  }
+}
