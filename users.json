@@ -1,13 +1,22 @@
 {
   "users": [
     {
-      "uuid": 1,
-      "username": "hikaridev",
-      "key_used": "DEFENSIVE-HIKA-RIDE",
-      "activation_date": null,
-      "expires_date": null,
-      "expires_after_days": 30,
-      "activated": false
+      "login": "CrashSystem",
+      "password": "CrashSystem",
+      "hwid": "4b8cd22309a60050e7b03424edf8431e",
+      "expires": "2038-01-19"
+    },
+    {
+      "login": "Smertnix",
+      "password": "Smertnix",
+      "hwid": "",
+      "expires": "2026-03-20"
+    },
+    {
+      "login": "hikaridev",
+      "password": "12345",
+      "hwid": "",
+      "expires": "2026-12-31"
     }
   ]
 }
