@@ -1,1 +1,13 @@
-
+{
+  "users": [
+    {
+      "uuid": 1,
+      "username": "hikaridev",
+      "key_used": "DEFENSIVE-HIKA-RIDE",
+      "activation_date": null,
+      "expires_date": null,
+      "expires_after_days": 30,
+      "activated": false
+    }
+  ]
+}
